@@ -1,0 +1,6 @@
+name = SLiMS OPAC Integration
+description = Allows your site to integrate with Senayan Library Management System OPAC (Online Catalog).
+package = Senayan Library Management System
+version = VERSION
+core = 7.x
+stylesheets[all][] = slims.css
